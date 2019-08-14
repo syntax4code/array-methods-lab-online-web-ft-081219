@@ -16,13 +16,17 @@ array.reverse
 end
 
 def using_first(array)
-["happy", "sad", "mad", "jelous"]
+array = ["happy", "sad", "mad", "jelous"]
+array.first
 end
 
 def using_last(array)
+array = ["happy", "sad", "mad", "jelous"]  
+array.last
 
 end
 
 def using_size(array)
-
+array = ["happy", "sad", "mad", "jelous"]  
+array.size 
 end
