@@ -6,8 +6,8 @@ end
 end
 
 def using_sort(array)
-  
-
+  array = ["happy", "sad", "mad", "jelous"]
+array.sort
 end
 
 def using_reverse(array)
