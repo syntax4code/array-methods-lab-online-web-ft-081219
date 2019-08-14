@@ -16,7 +16,7 @@ array.reverse
 end
 
 def using_first(array)
-
+["happy", "sad", "mad", "jelous"]
 end
 
 def using_last(array)
