@@ -11,7 +11,8 @@ array.sort
 end
 
 def using_reverse(array)
-
+array = ["happy", "sad", "mad", "jelous"]
+array.reverse
 end
 
 def using_first(array)
